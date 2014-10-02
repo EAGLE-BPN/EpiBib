@@ -1,0 +1,3429 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:90-5063-025-1%20;%20978-90-5063-025-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Amsterdam</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Gieben</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aleshire</foaf:surname>
+                        <foaf:givenname>Sara B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(g)Asklepieion Athen</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Asklepieion Athen / (s)Weihegabe / (f)Inventar</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>translations</dc:subject>
+        <dc:title>The Athenian Asklepieion</dc:title>
+        <dc:date>1989</dc:date>
+        <z:numPages>XII, 385, 12 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 90-5063-025-1 ; 978-90-5063-025-2</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:BookSection rdf:about="urn:isbn:9780511611711">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Translated Documents of Greece and Rome</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 9780511611711</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harding</foaf:surname>
+                        <foaf:givenname>Phillip</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>From the End of the Peloponnesian War to the Battle of Ipsus</dc:title>
+        <dc:date>1985</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1017/CBO9780511611711</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:9780511552687">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Translated Documents of Greece and Rome</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 9780511552687</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sherk</foaf:surname>
+                        <foaf:givenname>Robert K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Rome and the Greek East to the Death of Augustus</dc:title>
+        <dc:date>1984</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1017/CBO9780511552687</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:9050630685%209789050630689">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Amsterdam</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>J.C. Gieben</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aleshire</foaf:surname>
+                        <foaf:givenname>Sara B</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Asklepios at Athens: epigraphic and prosopographic essays on the Athenian healing cults</dc:title>
+        <dc:date>1991</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 9050630685 9789050630689</dc:identifier>
+        <z:shortTitle>Asklepios at Athens</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0415149843%20%209780415149846">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London; New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arnaoutoglou</foaf:surname>
+                        <foaf:givenname>Ilias</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ancient Greek laws: a sourcebook</dc:title>
+        <dc:date>1998</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0415149843  9780415149846</dc:identifier>
+        <z:shortTitle>Ancient Greek laws</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:2869581726%20%209782869581722">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Athènes; Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>École française d'Athènes ; diff. De Boccard</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>École française d'archéologie d'Athènes</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prêtre</foaf:surname>
+                        <foaf:givenname>Clarisse</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Nouveau choix d'inscriptions de Délos: lois, comptes et inventaires</dc:title>
+        <dc:date>2002</dc:date>
+        <z:language>French</z:language>
+        <dc:identifier>ISBN 2869581726  9782869581722</dc:identifier>
+        <z:shortTitle>Nouveau choix d'inscriptions de Délos</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0424061201%20%209780424061207">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Sydney</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Sydney University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Demosthenes</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ellis</foaf:surname>
+                        <foaf:givenname>John R</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Milns</foaf:surname>
+                        <foaf:givenname>R. D</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname></foaf:surname>
+                        <foaf:givenname>Demosthenes</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Demosthenes</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The spectre of Philip; Demosthenes' first Philippic, Olynthiacs and speech On the peace; a study in historical evidence</dc:title>
+        <dc:date>1970</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0424061201  9780424061207</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3534022432%209783534022434">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Darmstadt</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wiss. Buchges., [Abt. Verl.]</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <link:link rdf:resource="#item_846"/>
+        <dc:title>Historische griechische Inschriften in Übersetzung 1, 1,</dc:title>
+        <dc:date>1992</dc:date>
+        <z:language>German</z:language>
+        <dc:identifier>ISBN 3534022432 9783534022434</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_846">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HEIDI</dc:title>
+        <dcterms:dateSubmitted>2014-03-19 11:18:15</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?query=ga:4207825&amp;sess=f261e6ddef516c76538a700e23e2d45a</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_282">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Mainz on Rhine</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Zabern</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clairmont</foaf:surname>
+                        <foaf:givenname>Christoph W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (s)Grabstele / (s)Grabgedicht / (z)Geschichte 700 v. Chr.-323 v. Chr. / (f)Verzeichnis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(s)Griechisch / (s)Grabinschrift</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Gravestone and epigram</dc:title>
+        <dc:date>1970</dc:date>
+        <z:numPages>XIX, 185, 37 S.</z:numPages>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3150285127%20%209783150285121%20%203150085128%20%209783150085127">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stuttgart</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>P. Reclam</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schumacher</foaf:surname>
+                        <foaf:givenname>Leonhard</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Römische Inschriften: Lateinisch, Deutsch</dc:title>
+        <dc:date>1988</dc:date>
+        <z:language>German</z:language>
+        <dc:identifier>ISBN 3150285127  9783150285121  3150085128  9783150085127</dc:identifier>
+        <z:shortTitle>Römische Inschriften</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://vindolanda.csad.ox.ac.uk/links.shtml">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Vindolanda Tablets Online | Links and Further Reading</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://vindolanda.csad.ox.ac.uk/links.shtml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-19 11:24:31</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="#item_304">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>[Hatfield, Herts.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>London Association of Classical Teachers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sabben-Clare</foaf:surname>
+                        <foaf:givenname>J. P</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Warman</foaf:surname>
+                        <foaf:givenname>M. S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Culture of Athens</dc:title>
+        <dc:date>1978</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0891304967%20%209780891304968%20%200891304959%209780891304951">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chico, Calif.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Published by Scholars Press for the Society of Biblical Literature</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bagnall</foaf:surname>
+                        <foaf:givenname>Roger S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Derow</foaf:surname>
+                        <foaf:givenname>Peter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Greek historical documents: the Hellenistic period</dc:title>
+        <dc:date>1981</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0891304967  9780891304968  0891304959 9780891304951</dc:identifier>
+        <z:shortTitle>Greek historical documents</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-2-7288-0443-6%20;%202-7288-0443-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Guides et inventaires bibliographiques ; Ecole Normale Supérieure &lt;Paris&gt;</dc:title>
+                <dc:identifier>7</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Éd. Rue d'Ulm</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bérard</foaf:surname>
+                        <foaf:givenname>François</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Briquel</foaf:surname>
+                        <foaf:givenname>Dominique</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(f)Bibliographie</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Epigraphik</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Griechisch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Latein</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Guide de l'épigraphiste</dc:title>
+        <prism:edition>4. éd. entièrement refondue</prism:edition>
+        <dc:date>2010</dc:date>
+        <z:numPages>448 S.</z:numPages>
+        <z:language>fre</z:language>
+        <dc:identifier>ISBN 978-2-7288-0443-6 ; 2-7288-0443-5</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-521-38201-7%20;%200-521-38867-8%20;%20978-0-521-38867-2%20;%20978-0-521-38201-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Key themes in ancient history</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge Univ. Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Price</foaf:surname>
+                        <foaf:givenname>Simon</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>&lt;Altertum&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Griechenland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Religion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Religions of the ancient Greeks</dc:title>
+        <prism:edition>1. publ.</prism:edition>
+        <dc:date>1999</dc:date>
+        <z:numPages>XII, 217 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-521-38201-7 ; 0-521-38867-8 ; 978-0-521-38867-2 ; 978-0-521-38201-4</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-7156-1434-7%20;%20978-0-7156-1434-1">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Duckworth</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lefkowitz</foaf:surname>
+                        <foaf:givenname>Mary R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fant</foaf:surname>
+                        <foaf:givenname>Maureen B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (s)Frau / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(g)Römisches Reich / (s)Frau / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Women's life in Greece and Rome</dc:title>
+        <dc:date>1982</dc:date>
+        <z:numPages>294 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-7156-1434-7 ; 978-0-7156-1434-1</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9783150187692%20%203150187699">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stuttgart</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Reclam</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hüttemann</foaf:surname>
+                        <foaf:givenname>Arno</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Pompejanische Inschriften: der heutige Bestand vor Ort im Stadtgebiet und in den Nekropolen : Lateinisch/Deutsch</dc:title>
+        <dc:date>2010</dc:date>
+        <z:language>German</z:language>
+        <dc:identifier>ISBN 9783150187692  3150187699</dc:identifier>
+        <z:shortTitle>Pompejanische Inschriften</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="#item_361">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Köln</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Archäologisches Institut &lt;Köln&gt;</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Linfert</foaf:surname>
+                        <foaf:givenname>Andreas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Die Skeuothek des Philon im Piräus</dc:title>
+        <dc:date>1981</dc:date>
+        <z:numPages>61 S.</z:numPages>
+        <z:language>ger</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-472-10388-1%20;%20978-0-472-10388-1">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Michigan monographs in classical Antiquity</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ann Arbor</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Univ. of Michigan Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lambert</foaf:surname>
+                        <foaf:givenname>S. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Athen</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Phratrie</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The phratries of Attica</dc:title>
+        <dc:date>1993</dc:date>
+        <z:numPages>XI, 424 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-472-10388-1 ; 978-0-472-10388-1</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-472-10280-X%20;%20978-0-472-10280-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ann Arbor</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Univ. of Michigan Pr.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hamilton</foaf:surname>
+                        <foaf:givenname>Richard</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Anthesteria</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(s)Anthesteria / (s)Ritual / (s)Ikonographie</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Choes</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Choes and Anthesteria</dc:title>
+        <dc:date>1992</dc:date>
+        <z:numPages>XIII, 250 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-472-10280-X ; 978-0-472-10280-8</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3534022459%209783534022458">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Darmstadt</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wiss. Buchges.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Historische griechische Inschriften in Übersetzung. Band III. Der griechische Osten und Rom (250-1 v. Chr.)</dc:title>
+        <dc:date>1999</dc:date>
+        <z:language>German</z:language>
+        <dc:identifier>ISBN 3534022459 9783534022458</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3534022440%20%209783534022441">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Darmstadt</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wissenschaftl. Buchges.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brodersen</foaf:surname>
+                        <foaf:givenname>Kai, Günther, Wolfgang, Schmitt, Hatto H</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Spätklassik und früher Hellenismus: (400 - 250 v. Chr.)</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>German</z:language>
+        <dc:identifier>ISBN 3534022440  9783534022441</dc:identifier>
+        <z:shortTitle>Spätklassik und früher Hellenismus</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://www2.warwick.ac.uk/fac/arts/classics/postgrads/modules/epigraphy/bibliog/online/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Epigraphy: Online resources</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www2.warwick.ac.uk/fac/arts/classics/postgrads/modules/epigraphy/bibliog/online/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-19 12:55:09</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:0-8018-4692-7%20;%20978-0-8018-4692-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Baltimore [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Johns Hopkins Univ. Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gabrielsen</foaf:surname>
+                        <foaf:givenname>Vincent</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Athen</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(s)Finanzpolitik</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Flotte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Financing the Athenian fleet</dc:title>
+        <dc:date>1994</dc:date>
+        <z:numPages>XVII, 306 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-8018-4692-7 ; 978-0-8018-4692-2</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:BookSection rdf:about="urn:isbn:951-95295-2-7%20;%20978-951-95295-2-3">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Suomen Ateenan Instituutti: Papers and monographs of the Finnish Institute at Athens</dc:title>
+                        <dc:identifier>1</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Post-Herulian Athens</dc:title>
+                <dc:identifier>ISBN 951-95295-2-7 ; 978-951-95295-2-3</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Helsinki</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Suomen Ateenan-Instituutin Säätiö</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Castrén</foaf:surname>
+                        <foaf:givenname>Paavo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sironen</foaf:surname>
+                        <foaf:givenname>E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Athen / (s)Kultur / (z)Geschichte 267-529 / (f)Aufsatzsammlung</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Athen / (z)Geistesgeschichte 267-529 / (f)Aufsatzsammlung</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Life and Administration of Late Roman Attica in the Light of Public Inscriptions</dc:title>
+        <dc:date>1994</dc:date>
+        <bib:pages>15-62</bib:pages>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_444">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>[Roma]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>[Canali DeRossi]</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canali De Rossi</foaf:surname>
+                        <foaf:givenname>Filippo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Selezione di iscrizioni storiche tardo-ellenistiche</dc:title>
+        <dc:date>1999</dc:date>
+        <z:numPages>215, CXXXIV S.</z:numPages>
+        <z:language>grc ita</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+        <dc:description>Texte griech. in griech. Schr. und ital., Erl. ital.</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_467">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Biblioteca di studi superiori ; 53 ; Biblioteca di studi superiori</dc:title>
+                <dc:identifier>53</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Firenze</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>La Nuova Italia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moretti</foaf:surname>
+                        <foaf:givenname>Luigi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Attica, Peloponneso, Beozia</dc:title>
+        <prism:edition>1. ed.</prism:edition>
+        <dc:date>1967</dc:date>
+        <z:numPages>XIV, 176 S.</z:numPages>
+        <z:language>ita</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-7885-0142-9%20;%200-7885-0141-0%20;%20978-0-7885-0142-5%20;%20978-0-7885-0141-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>American classical studies ; 36 ; American classical studies</dc:title>
+                <dc:identifier>36</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Atlanta, Ga.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Scholars Pr.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Courtney</foaf:surname>
+                        <foaf:givenname>Edward</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(f)Anthologie</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Grabgedicht</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Latein</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Musa lapidaria</dc:title>
+        <dc:date>1995</dc:date>
+        <z:numPages>X, 457 S.</z:numPages>
+        <z:language>eng lat</z:language>
+        <dc:identifier>ISBN 0-7885-0142-9 ; 0-7885-0141-0 ; 978-0-7885-0142-5 ; 978-0-7885-0141-8</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+        <dc:description>Texte lat. und engl., Komm. engl.</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0709922221">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Croom Helm</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rhodes</foaf:surname>
+                        <foaf:givenname>P. J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_840"/>
+        <link:link rdf:resource="#item_880"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Greece</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Politics and government</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>To 146 B.C</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Greek city states: a source book</dc:title>
+        <dc:date>1986</dc:date>
+        <z:numPages>266</z:numPages>
+        <dc:identifier>ISBN 0709922221</dc:identifier>
+        <z:shortTitle>The Greek city states</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>JC71.A1 R46x 1986b</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_840">
+       <rdf:value>Includes translations from classical Greek</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_880">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HEIDI</dc:title>
+        <dcterms:dateSubmitted>2014-03-19 10:02:50</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?fsubmit=1&amp;kat1=freitext&amp;var1=the+Greek+City+States&amp;op1=AND&amp;kat2=ej&amp;var2=&amp;op2=AND&amp;kat3=au&amp;var3=Rhodes&amp;sess=f261e6ddef516c76538a700e23e2d45a&amp;bestand=&amp;sprache=GER&amp;art=f</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:2913667031%20%209782913667037%20%20291366704X%20%209782913667044">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Nancy</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Association pour la diffusion de la recherche sur l'antiquité</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Guen</foaf:surname>
+                        <foaf:givenname>Brigitte</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Les associations de Technites dionysiaques à l'époque hellénistique</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>French and Greek.</z:language>
+        <dc:identifier>ISBN 2913667031  9782913667037  291366704X  9782913667044</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-89130-346-4%20;%200-89130-347-2%20;%20978-0-89130-346-6%20;%20978-0-89130-347-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Sources for biblical study</dc:title>
+                <dc:identifier>14</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>[S.l.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Society for Biblical Studies</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rice</foaf:surname>
+                        <foaf:givenname>David G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stambaugh</foaf:surname>
+                        <foaf:givenname>John E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>&lt;Altertum&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(f)Quelle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Griechenland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Religion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Sources for the study of Greek religion</dc:title>
+        <prism:edition>Corr. ed.</prism:edition>
+        <dc:date>2009</dc:date>
+        <z:numPages>211 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-89130-346-4 ; 0-89130-347-2 ; 978-0-89130-346-6 ; 978-0-89130-347-3</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3-11-014444-1%20;%20978-3-11-014444-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Untersuchungen zur antiken Literatur und Geschichte ; 46 ; Untersuchungen zur antiken Literatur und Geschichte</dc:title>
+                <dc:identifier>46</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin ; New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Zugl.: Konstanz, Univ., Habil.-Schr., 1991/92</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dreher</foaf:surname>
+                        <foaf:givenname>Martin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>&lt;378</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.&gt;</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.-338</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Attischer</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Seebund</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>v.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Hegemon und Symmachoi</dc:title>
+        <dc:date>1995</dc:date>
+        <z:numPages>X, 316 S.</z:numPages>
+        <z:language>ger</z:language>
+        <dc:identifier>ISBN 3-11-014444-1 ; 978-3-11-014444-4</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:BookSection rdf:about="urn:isbn:9780511552670">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Translated Documents of Greece and Rome</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 9780511552670</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sherk</foaf:surname>
+                        <foaf:givenname>Robert K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Roman Empire: Augustus to Hadrian</dc:title>
+        <dc:date>1988</dc:date>
+        <z:shortTitle>The Roman Empire</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1017/CBO9780511552670</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:2-920123-09-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Génève</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Droz [u.a.]</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Migeotte</foaf:surname>
+                        <foaf:givenname>Léopold</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Les souscriptions publiques dans les cités grecques</dc:title>
+        <dc:date>1992</dc:date>
+        <dc:identifier>ISBN 2-920123-09-2</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/titel/3643292</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-231-07054-3%20;%200-231-07055-1%20;%20978-0-231-07054-6%20;%20978-0-231-07055-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Columbia Univ. Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenname>Naphtali</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Römisches Reich / (s)Kultur / (z)Geschichte</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Römisches Reich / (s)Kultur / (z)Geschichte / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(g)Römisches Reich / (z)Geschichte</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Roman civilization</dc:title>
+        <prism:edition>3. ed.</prism:edition>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-231-07054-3 ; 0-231-07055-1 ; 978-0-231-07054-6 ; 978-0-231-07055-3</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:88-7032-280-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Quart (Aosta)</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Musumeci Ed.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cavallaro</foaf:surname>
+                        <foaf:givenname>Antonina Maria</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_853"/>
+        <dc:title>Iscrizioni di Augusta Praetoria</dc:title>
+        <dc:date>1988</dc:date>
+        <dc:identifier>ISBN 88-7032-280-7</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/titel/3540358</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_853">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HEIDI</dc:title>
+        <dcterms:dateSubmitted>2014-03-19 11:37:00</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?fsubmit=1&amp;kat1=freitext&amp;var1=Iscrizioni+di+Augusta+Praetoria&amp;op1=AND&amp;kat2=ti&amp;var2=&amp;op2=AND&amp;kat3=au&amp;var3=&amp;sess=f261e6ddef516c76538a700e23e2d45a&amp;bestand=&amp;sprache=GER&amp;art=f</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:2-251-33815-2%20;%20978-2-251-33815-6">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>La roue à livres ; 17 ; La roue à livres</dc:title>
+                <dc:identifier>17</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Les Belles Lettres</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bertrand</foaf:surname>
+                        <foaf:givenname>Jean-Marie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Inscriptions historiques grecques</dc:title>
+        <dc:date>1992</dc:date>
+        <z:numPages>273 S.</z:numPages>
+        <z:language>fre</z:language>
+        <dc:identifier>ISBN 2-251-33815-2 ; 978-2-251-33815-6</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="#item_563">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>[S.l.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>British School &lt;Athēnai&gt;</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lambert</foaf:surname>
+                        <foaf:givenname>S. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Greek inscriptions on stone in the collection of the British School at Athens</dc:title>
+        <dc:date>2000</dc:date>
+        <z:numPages>S. [485] - 516, 75 - 85</z:numPages>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+        <dc:description>Aus: British School &lt;Athēnai&gt;: The annual of the British School at Athens; 95</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="#item_566">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>A. Colin</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Austin</foaf:surname>
+                        <foaf:givenname>M. M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vidal-Naquet</foaf:surname>
+                        <foaf:givenname>Pierre</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Économies et sociétés en Grèce ancienne (périodes archaïque et classique).</dc:title>
+        <dc:date>1972</dc:date>
+        <z:language>French</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3487059983%209783487059983">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Hildesheim, New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Olms</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Durrbach</foaf:surname>
+                        <foaf:givenname>Félix</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Choix d'inscription de Délos: avec trad. et commentaire</dc:title>
+        <dc:date>1976</dc:date>
+        <z:language>German</z:language>
+        <dc:identifier>ISBN 3487059983 9783487059983</dc:identifier>
+        <z:shortTitle>Choix d'inscription d'inscriptions] de Délos</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3258029466%209783258029467">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bern</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Haupt</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walser</foaf:surname>
+                        <foaf:givenname>Gerold</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_863"/>
+        <dc:title>Wallis, Tessin, Graubünden Meilensteine aus der ganzen Schweiz</dc:title>
+        <dc:date>1980</dc:date>
+        <z:language>German</z:language>
+        <dc:identifier>ISBN 3258029466 9783258029467</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_863">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HEIDI</dc:title>
+        <dcterms:dateSubmitted>2014-03-19 11:38:40</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?query=ga:1803189&amp;sess=f261e6ddef516c76538a700e23e2d45a</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:9780520913493%20%200520913493%20%200585139628%20%209780585139623">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley, Ca.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of California Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ager</foaf:surname>
+                        <foaf:givenname>Sheila L</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Interstate arbitrations in the Greek world, 337-90 B.C</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 9780520913493  0520913493  0585139628  9780585139623</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=13044</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-19 13:01:49</dcterms:dateSubmitted>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3776520884%209783776520880">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>München</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Heimeran</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Geist</foaf:surname>
+                        <foaf:givenname>Hieronymus</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfohl</foaf:surname>
+                        <foaf:givenname>Gerhard</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Römische Grabinschriften</dc:title>
+        <dc:date>1976</dc:date>
+        <z:language>Undetermined</z:language>
+        <dc:identifier>ISBN 3776520884 9783776520880</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0865163553%20%209780865163553">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wauconda, Ill.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Bolchazy-Carducci Publishers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shore</foaf:surname>
+                        <foaf:givenname>Paul J</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Rest lightly: an anthology of Latin and Greek tomb inscriptions</dc:title>
+        <dc:date>1997</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0865163553  9780865163553</dc:identifier>
+        <z:shortTitle>Rest lightly</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0520075080">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of California Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenname>Stephen G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Greece</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sports</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sports in literature</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Arete: Greek sports from ancient sources</dc:title>
+        <prism:edition>A 2nd and expanded ed</prism:edition>
+        <dc:date>1991</dc:date>
+        <z:numPages>227</z:numPages>
+        <dc:identifier>ISBN 0520075080</dc:identifier>
+        <z:shortTitle>Arete</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GV21 .A73 1991</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:90-04-09991-3%20;%20978-90-04-09991-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Mnemosyne &lt;Leiden&gt; / Supplementum</dc:title>
+                <dc:identifier>145</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leiden [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Brill</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cargill</foaf:surname>
+                        <foaf:givenname>Jack</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>400</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.-300</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Athen</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Kolonie</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>v.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Athenian settlements of the fourth century B.C.</dc:title>
+        <dc:date>1995</dc:date>
+        <z:numPages>XXVII, 487, 10 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 90-04-09991-3 ; 978-90-04-09991-3</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-521-55070-X%20;%20978-0-521-55070-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge Univ. Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>Peter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Chorege</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Athenian institution of the Khoregia</dc:title>
+        <prism:edition>1. publ.</prism:edition>
+        <dc:date>2000</dc:date>
+        <z:numPages>XV, 435 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-521-55070-X ; 978-0-521-55070-3</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:2903264724">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Travaux de la Maison de l'Orient</dc:title>
+                <dc:identifier>no. 30</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lyon</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Maison de l'Orient Méditerranéen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hellmann</foaf:surname>
+                        <foaf:givenname>Marie-Christine</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Architectural inscriptions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Architecture, Ancient</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Building</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Greece</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Choix d'inscriptions architecturales grecques</dc:title>
+        <dc:date>1999</dc:date>
+        <z:numPages>121</z:numPages>
+        <dc:identifier>ISBN 2903264724</dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>NA4050.I5 C48 1999</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0521228298%209780521228299%200521296668%20%209780521296663">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge; New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Austin</foaf:surname>
+                        <foaf:givenname>M. M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Hellenistic world from Alexander to the Roman conquest: a selection of ancient sources in translation</dc:title>
+        <dc:date>1981</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0521228298 9780521228299 0521296668  9780521296663</dc:identifier>
+        <z:shortTitle>The Hellenistic world from Alexander to the Roman conquest</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0788501038%20%209780788501036%20%200788501046%20%209780788501043">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Atlanta, Ga.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Scholars Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>LiDonnici</foaf:surname>
+                        <foaf:givenname>Lynn R</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Epidaurian miracle inscriptions</dc:title>
+        <dc:date>1995</dc:date>
+        <z:language>English and Greek.</z:language>
+        <dc:identifier>ISBN 0788501038  9780788501036  0788501046  9780788501043</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:90-5063-286-6%20;%20978-90-5063-286-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Archaia Hellas</dc:title><dc:identifier>4</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Amsterdam</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Gieben</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tobin</foaf:surname>
+                        <foaf:givenname>Jennifer L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>&lt;Atticus&gt;</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Athen</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(p)Herodes</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Herodes Attikos and the city of Athens</dc:title>
+        <dc:date>1997</dc:date>
+        <z:numPages>XII, 409, [68] S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 90-5063-286-6 ; 978-90-5063-286-7</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:2-251-32624-3%20;%202-920123-03-3%20;%20978-2-251-32624-5%20;%20978-2-920123-03-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Collection d'études anciennes</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Québec</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Teilw. zugl.: Lyon, Univ., Diss., 1978</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Migeotte</foaf:surname>
+                        <foaf:givenname>Léopold</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (s)Staatsanleihe</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (s)Staatsanleihe / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (s)Staatsanleihe / (s)Stadtstaat</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>L' emprunt public dans les cités grecques</dc:title>
+        <dc:date>1984</dc:date>
+        <z:numPages>434 S., V Taf.</z:numPages>
+        <z:language>grc fre</z:language>
+        <dc:identifier>ISBN 2-251-32624-3 ; 2-920123-03-3 ; 978-2-251-32624-5 ; 978-2-920123-03-8</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+        <dc:description>Zitierte Texte in griech. Schr.</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-938032-53-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Die hellenistische Polis als Lebensform</dc:title>
+                <dc:identifier>6</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Mainz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Verlag Antike</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saba</foaf:surname>
+                        <foaf:givenname>Sara</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>&lt;Altertum&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>100</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Griechenland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Polizeirecht</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The astynomoi law from Pergamon</dc:title>
+        <dc:date>2012</dc:date>
+        <z:numPages>149 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 978-3-938032-53-4</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://insaph.kcl.ac.uk/ala2004/inscription/index.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>ALA: Inscriptions</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://insaph.kcl.ac.uk/ala2004/inscription/index.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-19 11:24:37</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:088866527X%209780888665270%200888665288%20%209780888665287">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Toronto</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Hakkert</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wickersham</foaf:surname>
+                        <foaf:givenname>John M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verbrugghe</foaf:surname>
+                        <foaf:givenname>Gerald</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Greek historical documents; the fourth century B.C.</dc:title>
+        <dc:date>1973</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 088866527X 9780888665270 0888665288  9780888665287</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="#item_671">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Nouvelle collection de textes et documents</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Les belles lettres</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Griechisch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Inschrift</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Sammlung</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Nouveau choix d'inscriptions grecques</dc:title>
+        <dc:date>1971</dc:date>
+        <z:numPages>234 S.</z:numPages>
+        <z:language>fre</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="http://katalog.ub.uni-heidelberg.de/titel/66122357">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Impr. Nationale</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michon</foaf:surname>
+                        <foaf:givenname>Etienne</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Un décret du dème de Cholargos relatif aux thesmophories</dc:title>
+        <dc:date>1913</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/titel/66122357</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-520-04069-4%20;%20978-0-520-04069-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Univ. of California Pr.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cargill</foaf:surname>
+                        <foaf:givenname>Jack</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Athen / (z)Geschichte 404 v. Chr.-338 v. Chr.</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(s)Attisch-delischer Seebund</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(s)Attischer Seebund &lt;378 v. Chr.-338 v. Chr.&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Second Athenian League</dc:title>
+        <dc:date>1981</dc:date>
+        <z:numPages>XVII, 215 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-520-04069-4 ; 978-0-520-04069-4</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3-406-09457-0%20;%20978-3-406-09457-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>München</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Beck</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Austin</foaf:surname>
+                        <foaf:givenname>Michel M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vidal-Naquet</foaf:surname>
+                        <foaf:givenname>Pierre</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Gesellschaft und Wirtschaft im alten Griechenland</dc:title>
+        <dc:date>1984</dc:date>
+        <z:numPages>XVI, 344 S.</z:numPages>
+        <z:language>ger</z:language>
+        <dc:identifier>ISBN 3-406-09457-0 ; 978-3-406-09457-6</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.ifporient.org/node/458">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Les inscriptions grecques et latines de la Syrie (IGLS) | Institut français du Proche-Orient - Ifpo</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ifporient.org/node/458</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-19 11:34:23</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:0-8061-1612-9%20;%20978-0-8061-1612-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Norman</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Univ. of Oklahoma Pr.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heisserer</foaf:surname>
+                        <foaf:givenname>A. J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Alexander the Great and the Greeks</dc:title>
+        <prism:edition>1. ed.</prism:edition>
+        <dc:date>1980</dc:date>
+        <z:numPages>XXVII, 252 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-8061-1612-9 ; 978-0-8061-1612-9</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="#item_705">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Bibliothèque des études savoisiennes ; Centre de Recherche d'Histoire de l'Italie et des Pays Alpins &lt;Grenoble&gt;: Sources antiques</dc:title>
+                <dc:identifier>5 ; 1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chambéry-Grenoble</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institut d'Etudes Savoisiennes</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rémy</foaf:surname>
+                        <foaf:givenname>Bernard</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bertrandy</foaf:surname>
+                        <foaf:givenname>François</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Alpes Graies</dc:title>
+        <dc:date>1998</dc:date>
+        <z:numPages>127 S.</z:numPages>
+        <z:language>lat fre</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-849-6786-50-9">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Sylloge epigraphica barcinonensis ; 1 : Annexos</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Barcelona</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Galerada</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cimarosti</foaf:surname>
+                        <foaf:givenname>Elena</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Le iscrizioni di età romana sul versante italiano delle Alpes Cottiae</dc:title>
+        <dc:date>2012</dc:date>
+        <z:numPages>612 S.</z:numPages>
+        <z:language>ita</z:language>
+        <dc:identifier>ISBN 978-849-6786-50-9</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+        <dc:description>Half title: ISSN 2013-4118. - Text in Italian. - Supplement to the periodical. - Includes bibliographical references</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-19-815313-9%20;%20978-0-19-815313-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Univ. Pr.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rhodes</foaf:surname>
+                        <foaf:givenname>Peter J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>359</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.-323</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(f)Quelle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Griechisch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Inschrift</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>v.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Greek historical inscriptions, 404 - 323 BC</dc:title>
+        <dc:date>2003</dc:date>
+        <z:numPages>XXXII, 593 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-19-815313-9 ; 978-0-19-815313-9</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0903625113%209780903625111">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>[Hatfield] (9 Mymms Drive, Brookman's Park, Hatfield, Herts.)</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>London Association of Classical Teachers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rhodes</foaf:surname>
+                        <foaf:givenname>P. J</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Greek historical inscriptions, 359-323 B.C.</dc:title>
+        <dc:date>1971</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0903625113 9780903625111</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9780511607387">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Translated Documents of Greece and Rome</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fornara</foaf:surname>
+                        <foaf:givenname>Charles W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (z)Geschichte 800 v. Chr.-404 v. Chr. / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (z)Geschichte / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Archaic Times to the End of the Peloponnesian War</dc:title>
+        <prism:edition>Second edition</prism:edition>
+        <dc:date>1983</dc:date>
+        <dc:identifier>ISBN 9780511607387</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1017/CBO9780511607387</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-415-11367-9%20;%200-415-11366-0%20;%20978-0-415-11367-0%20;%20978-0-415-11366-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Routledge Classical Studies</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dillon</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garland</foaf:surname>
+                        <foaf:givenname>Lynda</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>&lt;Altertum&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>800</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.-399</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(f)Quelle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Griechenland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>v.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Ancient Greece</dc:title>
+        <dc:date>1994</dc:date>
+        <z:numPages>XV, 472 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-415-11367-9 ; 0-415-11366-0 ; 978-0-415-11367-0 ; 978-0-415-11366-3</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-415-04061-2%20;%200-415-04060-4%20;%20978-0-415-04061-7%20;%20978-0-415-04060-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stanton</foaf:surname>
+                        <foaf:givenname>Greg R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Athenian politics c. 800 - 500 BC</dc:title>
+        <prism:edition>1. publ.</prism:edition>
+        <dc:date>1990</dc:date>
+        <z:numPages>XIII, 226 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-415-04061-2 ; 0-415-04060-4 ; 978-0-415-04061-7 ; 978-0-415-04060-0</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-415-21754-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dillon</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ancient Greece</dc:title>
+        <prism:edition>2. ed., new ed. with corrections</prism:edition>
+        <dc:date>2000</dc:date>
+        <dc:identifier>ISBN 0-415-21754-7</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/titel/65202148</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-415-14355-1%20;%200-415-14354-3%20;%20978-0-415-14354-7%20;%20978-0-415-14355-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sage</foaf:surname>
+                        <foaf:givenname>Michael M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>&lt;Altertum&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(f)Quelle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Griechenland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Heer</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Warfare in ancient Greece</dc:title>
+        <prism:edition>1. publ.</prism:edition>
+        <dc:date>1996</dc:date>
+        <z:numPages>XXVIII, 252 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-415-14355-1 ; 0-415-14354-3 ; 978-0-415-14354-7 ; 978-0-415-14355-4</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:90-5063-197-5%20;%20978-90-5063-197-6">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Archaia Hellas</dc:title><dc:identifier>5</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Amsterdam</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Gieben</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taylor</foaf:surname>
+                        <foaf:givenname>Martha C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Athen</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Salamis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Salamis and the Salaminioi</dc:title>
+        <dc:date>1997</dc:date>
+        <z:numPages>XIV, 344 S.</z:numPages>
+        <z:language>grc eng</z:language>
+        <dc:identifier>ISBN 90-5063-197-5 ; 978-90-5063-197-6</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:2-85816-165-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Toulouse</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Presses Univ. du Mirail</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>LeGuen-Pollet</foaf:surname>
+                        <foaf:givenname>Brigitte</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La vie religieuse dans le monde grec du Ve au IIIe siècle avant notre ère</dc:title>
+        <dc:date>1991</dc:date>
+        <dc:identifier>ISBN 2-85816-165-8</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/titel/3615041</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="#item_779">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Bibliothèque de la Faculté des Lettres de Lyon</dc:title>
+                <dc:identifier>4</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Soc. d Éd. Les Belles Lettres</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pouilloux</foaf:surname>
+                        <foaf:givenname>Jean</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(s)Griechisch / (s)Inschrift / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(s)Griechisch / (s)Inschrift / (s)Sammlung</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Choix d'inscriptions grecques</dc:title>
+        <dc:date>1960</dc:date>
+        <z:numPages>195 S.</z:numPages>
+        <z:language>fre</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:2869580673%209782869580671">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lausanne; Athènes; Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Université de Lausanne ; École française d'Athènes ; De Boccard [distributor]</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bielman</foaf:surname>
+                        <foaf:givenname>Anne</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (s)Gefangenenbefreiung / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(s)Griechisch / (s)Ehreninschrift / (f)Verzeichnis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Retour à la liberté: libération et sauvetage des prisonniers en Grèce ancienne : recueil d'inscriptions honorant des sauveteurs et analyse critique</dc:title>
+        <dc:date>1994</dc:date>
+        <z:language>French</z:language>
+        <dc:identifier>ISBN 2869580673 9782869580671</dc:identifier>
+        <z:shortTitle>Retour à la liberté</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-7099-0388-X%20;%200-7099-0389-8%20;%20978-0-7099-0389-5%20;%20978-0-7099-0388-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Croom Helm</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiedemann</foaf:surname>
+                        <foaf:givenname>Thomas E. J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Griechenland &lt;Altertum&gt; / (s)Sklaverei / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>(g)Römisches Reich / (s)Sklaverei / (f)Quelle</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Greek and Roman Slavery</dc:title>
+        <dc:date>1981</dc:date>
+        <z:numPages>284 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-7099-0388-X ; 0-7099-0389-8 ; 978-0-7099-0389-5 ; 978-0-7099-0388-8</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0890050198%209780890050194">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Chicago</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ares Publishers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Welles</foaf:surname>
+                        <foaf:givenname>C. Bradford</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Royal correspondence in the Hellenistic period: a study in Greek epigraphy</dc:title>
+        <dc:date>1974</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0890050198 9780890050194</dc:identifier>
+        <z:shortTitle>Royal correspondence in the Hellenistic period</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="#item_791">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Clarendon Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tod</foaf:surname>
+                        <foaf:givenname>Marcus Niebuhr</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A selection of Greek historical inscriptions.</dc:title>
+        <dc:date>1948</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9780801891496%20%209780801891502%20%200801891493%200801891507">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Baltimore</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>The Johns Hopkins University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lansford</foaf:surname>
+                        <foaf:givenname>Tyler</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_848"/>
+        <dc:title>The Latin inscriptions of Rome: a walking guide</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>English and Latin.</z:language>
+        <dc:identifier>ISBN 9780801891496  9780801891502  0801891493 0801891507</dc:identifier>
+        <z:shortTitle>The Latin inscriptions of Rome</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_848">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Amazon.com Link</dc:title>
+        <dcterms:dateSubmitted>2014-03-19 11:35:16</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.amazon.com/The-Latin-Inscriptions-Rome-Walking/dp/0801891507/ref=sr_1_1?ie=UTF8&amp;qid=1392149658&amp;sr=8-1&amp;keywords=latin+inscriptions+walking+guide</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:2711836037">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Réunion des musées nationaux : Distribution, Seuil</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Musée du Louvre</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hamiaux</foaf:surname>
+                        <foaf:givenname>Marianne</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pasquier</foaf:surname>
+                        <foaf:givenname>Alain</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_855"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Catalogs</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sculpture, Greek</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Les sculptures grecques</dc:title>
+        <dc:date>1998</dc:date>
+        <z:numPages>2</z:numPages>
+        <dc:identifier>ISBN 2711836037</dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>NB87.P37 M879 1998</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_855">
+        <rdf:value>&lt;p&gt;-- 2. La période hellénistique (IIIe-Ier siècles avant J.-C.)&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:0-521-22775-5%20;%200-521-29638-2%20;%20978-0-521-22775-9%20;%20978-0-521-29638-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge [u.a.]</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge Univ. Pr.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crawford</foaf:surname>
+                        <foaf:givenname>Michael H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Whitehead</foaf:surname>
+                        <foaf:givenname>David</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>&lt;Altertum&gt;</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>750</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chr.-338</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(f)Quelle</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(g)Griechenland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>v.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(z)Geschichte</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Archaic and classical Greece</dc:title>
+        <dc:date>1983</dc:date>
+        <z:numPages>XXIII, 634 S.</z:numPages>
+        <z:language>eng</z:language>
+        <dc:identifier>ISBN 0-521-22775-5 ; 0-521-29638-2 ; 978-0-521-22775-9 ; 978-0-521-29638-0</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="#item_813">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Société d'édition Les Belles lettres</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Institut Fernand-Courby</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Nouveau choix d'inscriptions grecques; textes, traductions, commentaires,</dc:title>
+        <dc:date>1971</dc:date>
+        <z:language>French</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:BookSection rdf:about="urn:isbn:9780511552618">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Translated Documents of Greece and Rome</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 9780511552618</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burstein</foaf:surname>
+                        <foaf:givenname>Stanley M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Hellenistic Age from the Battle of Ipsos to the Death of Kleopatra VII</dc:title>
+        <dc:date>1985</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dx.doi.org/10.1017/CBO9780511552618</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_828">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Tusculum-Bücherei</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>München</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Heimeran</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfohl</foaf:surname>
+                        <foaf:givenname>Gerhard</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Griechische Inschriften als Zeugnisse des privaten und öffentlichen Lebens</dc:title>
+        <dc:date>[1966]</dc:date>
+        <z:numPages>252 S.</z:numPages>
+        <z:language>grc ger</z:language>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+        <dc:description>Teilw.: Sonderausg. für die Wiss. Buchges., Darmstadt</dc:description>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0-7141-8064-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>British Museum Publications</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cook</foaf:surname>
+                        <foaf:givenname>Brian F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Greek inscriptions</dc:title>
+        <dc:date>1987</dc:date>
+        <dc:identifier>ISBN 0-7141-8064-5</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://katalog.ub.uni-heidelberg.de/titel/3487872</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9782869582484%20286958248X">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Athènes</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ecole Française d'Athênes</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquemin</foaf:surname>
+                        <foaf:givenname>Anne</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mulliez</foaf:surname>
+                        <foaf:givenname>Dominique</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rougemont</foaf:surname>
+                        <foaf:givenname>Georges</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Choix d'inscriptions de Delphes, traduites et commentées</dc:title>
+        <dcterms:abstract>Le présent Choix d'inscriptions de Delphes réunit un peu plus de 300 documents, qui s'échelonnent du haut archaïsme à l'époque contemporaine : il s'efforce de refléter la réalité de l'épigraphie delphique, sans exclure ni les textes banals, ni les séries répétitives ; Destiné aux étudiant avancés, qu'ils sachent ou non le grec, aux historiens, aux hellénistes non épigraphistes, aux épigraphistes débutants, voire aux épigraphistes confirmés, mais peu familiers des inscriptions de Delphes, il vise à faciliter l'accès à la signification littérale et à la portée historique des textes retenus. À cette fin, chaque document est accompagné d'une traduction, d'un commentaire et, le cas échéant, d'une amorce de bibliographie qui permet au lecteur à la fois de le replacer dans son contexte et d'en approfondir l'étude.</dcterms:abstract>
+        <dc:date>2012</dc:date>
+        <z:language>French</z:language>
+        <dc:identifier>ISBN 9782869582484 286958248X</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="#item_839">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Walker</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jones</foaf:surname>
+                        <foaf:givenname>A. H. M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A history of Rome through the fifth century,</dc:title>
+        <dc:date>1968</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:88-427-0399-0%20;%20978-88-427-0399-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Studi ellenistici</dc:title>
+                <dc:identifier>14</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Pisa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Giardini</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Virgilio</foaf:surname>
+                        <foaf:givenname>Biagio</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>/</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>(g)Hellenistische</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)Insignien</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s)König</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Staaten</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Lancia, diadema e porpora</dc:title>
+        <prism:edition>2. ed., rinnovata e ampliata con una appendice documentaria</prism:edition>
+        <dc:date>2003</dc:date>
+        <z:numPages>421 S.</z:numPages>
+        <z:language>grc ita</z:language>
+        <dc:identifier>ISBN 88-427-0399-0 ; 978-88-427-0399-0</dc:identifier>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9607094913%209789607094919">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>De Boccard</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chatzopulos</foaf:surname>
+                        <foaf:givenname>Miltiadēs B</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kentron Hellēnikēs kai Rōmaïkēs Archaiotētos (Athēnai)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Macedonian institutions under the kings 2 2</dc:title>
+        <dc:date>1996</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 9607094913 9789607094919</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_903">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Journal of prehistoric religion/15.2001</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gulizio</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A-re in the Linear B tablets and the continuity of the cult of Ares in the historical period</dc:title>
+        <bib:pages>32-38</bib:pages>
+        <z:libraryCatalog>katalog.ub.uni-heidelberg.de</z:libraryCatalog>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:9781407307701%201407307703">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Archaeopress</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al-Otaibi</foaf:surname>
+                        <foaf:givenname>Fahad Mutlaq</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>From Nabataea to Roman Arabia: acquisition or conquest</dc:title>
+        <dcterms:abstract>&quot;This study deals with Roman imperialism and the stand made by some conquered peoples in the face of Roman expansion, as exemplified by that of the Arab Nabataeans (modern Jordan) who lost their autonomy at the hands of the Romans in 106 CE. The study is divided into six chapters. The first is concerned with the development of the idea of history (historiography). The second chapter looks specifically at the case of the Nabataeans. Imperial discourse is the subject of the third chapter. Here, the theory of post-colonialism is introduced. Three sections are dealt with under this chapter. First is the understanding of classical sources of Roman imperialism. The second section in this chapter is concerned with the genesis of the idea of 'the other' in the Greco-Roman mentality. Within this context, the third section of this chapter looks at the image of the Nabataeans as 'others' in the accounts of Strabo, Josephus, and Diodorus. Chapter four is concerned with the the annexation of Nabataea, looking at the events of 106 CE within the context of Roman imperialism. The fifth chapter looks at the Nabataean resistance to the Romans both militarily and culturally. The last chapter introduces a fresh approach to the annexation of Nabataean territory.&quot;--Publisher's website.</dcterms:abstract>
+        <dc:date>2011</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 9781407307701 1407307703</dc:identifier>
+        <z:shortTitle>From Nabataea to Roman Arabia</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_909">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>International Conference 50 Years Antiquitas viva/ Živa antika</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Skopje</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Seminar za klasičnu filologiju</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gulizio</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Hermes and e-ma-a2. The continuity of his cult from the bronze age to the historical period.</dc:title>
+        <dc:date>2000</dc:date>
+        <bib:pages>105-116</bib:pages>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:BookSection>
+</rdf:RDF>
